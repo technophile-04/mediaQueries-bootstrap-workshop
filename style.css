@@ -1,0 +1,10 @@
+.box {
+  background-color: blue;
+  height: 500px;
+}
+
+@media screen and (min-width : 400px) {
+  .box{
+    background-color: red;
+  }
+}
